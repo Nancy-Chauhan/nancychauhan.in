@@ -3,11 +3,11 @@ module.exports = {
       title: `nancychauhan`,
       name: `Nancy Chauhan`,
       siteUrl: `https://nancychauhan.in`,
-      description: `This is my description that will be used in the meta tags and important for search results`,
+      description: `Website`,
   
       // important to set the main text that appears in the hero
       hero: {
-        heading: `Hi, I'm Nancy. <br/> <br/> Let's build something together.`,
+        heading: `Hi, I'm Nancy. <br/> <br/> Welcome to my blog!`,
         maxWidth: 652,
       },
       social: [
