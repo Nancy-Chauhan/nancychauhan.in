@@ -7,6 +7,9 @@ excerpt: DNS acts as the phonebook of the internet 🌐. It converts a web addre
 
 ---
 
+#####
+Amazing Sketch/Comic by [Julia Evans!](https://twitter.com/b0rk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
 Recently was working around DNS and thought to put it here!
 
 Computers work with numbers. Computers talk to another computer using a numeric address called IP address. Though structured and thus great for computers, it is tough for humans to remember.
