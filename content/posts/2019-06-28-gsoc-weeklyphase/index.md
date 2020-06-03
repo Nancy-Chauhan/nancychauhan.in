@@ -1,5 +1,5 @@
 ---
-title:  Coding Phase 1
+title:  Coding Phase 1 - Week 3 & 4
 author: Nancy Chauhan
 date:   2019-06-28
 hero: ./images/code.png

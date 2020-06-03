@@ -1,5 +1,5 @@
 ---
-title:  Coding Phase 1
+title:  Coding Phase 1 - Week 1 & 2 
 author: Nancy Chauhan
 date:   2019-06-08
 hero: ./images/codecat.png
