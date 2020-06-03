@@ -19,6 +19,18 @@ module.exports = {
           name: `github`,
           url: `https://github.com/Nancy-Chauhan`,
         },
+        {
+          name: `linkedin`,
+          url: `https://www.linkedin.com/in/nancy-chauhan/`,
+        },
+        {
+          name: `instagram`,
+          url: `https://www.instagram.com/_nancychauhan/`,
+        },
+        {
+          name: `medium`,
+          url: `https://medium.com/@_nancychauhan`,
+        },
       ],
     },
     plugins: [
