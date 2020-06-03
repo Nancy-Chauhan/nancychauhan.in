@@ -1,9 +1,10 @@
 ---
 title:  Coding Phase 2 with Librecores CI, OpenRISC, Fusesoc & Jenkins
 author: Nancy Chauhan
-date:   2019-07-30
+date:   2019-06-30
 hero:  ./images/gsoc.png
 excerpt: This blog defines my work of Coding Phase 2 of GSoC 
+
 ---
 
 This is the fourth post on GSoC with FOSSi Foundation. This blog defines my work of Coding Phase 2. Throughout this phase CI Pipelines improved, new test automation was added to the OpenRISC projects and worked on Yosys Synthesis.
