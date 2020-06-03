@@ -2,7 +2,7 @@
 title: Summer, Code, and Hack!
 author: Nancy Chauhan
 date: 2019-08-22
-hero: ./images/gsoc.png
+hero: ./images/Student.png
 excerpt: This summer, I worked on developing continuous integration pipeline for hardware projects during GSoC 2019.
 ---
 

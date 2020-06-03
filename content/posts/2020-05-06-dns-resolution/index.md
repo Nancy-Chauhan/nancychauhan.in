@@ -7,8 +7,7 @@ excerpt: DNS acts as the phonebook of the internet 🌐. It converts a web addre
 
 ---
 
-#####
-Amazing Sketch/Comic by [Julia Evans!](https://twitter.com/b0rk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+*Amazing Sketch/Comic by* [Julia Evans!](https://twitter.com/b0rk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 Recently was working around DNS and thought to put it here!
 

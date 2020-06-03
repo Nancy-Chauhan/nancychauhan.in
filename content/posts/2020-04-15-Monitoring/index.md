@@ -2,9 +2,11 @@
 title:  Monitoring Java Web Apps using Prometheus and Grafana
 author:  Nancy Chauhan
 date:   2020-04-15
-hero: ./images/monitoring.jpg
+hero: ./images/monitoring.jpeg
 excerpt: Monitoring an application’s health and metrics makes it possible to manage it in a better way and notice unoptimized behavior.
 ---
+
+*Design by* [Asif Jamal!](https://medium.com/@asifjamal)
 
 Recently, I have been exploring ways to make systems as monitorable as possible, which means minimizing the number of unknown-unknowns!
 
@@ -194,3 +196,5 @@ Bring docker-compose up, and you should be able to see Grafana with your dashboa
 
 Here we saw how to configure a Java application to monitor it with Prometheus. You can explore JMX exporter and Micrometer JVM extras to report several metrics about the JVM and many other java libraries.
 Let me know about your experiences in the comments!
+
+Originally Posted at https://lambda.grofers.com/monitoring-java-web-apps-using-prometheus-and-grafana-49050f418bfc
