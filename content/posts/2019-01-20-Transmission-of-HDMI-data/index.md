@@ -10,7 +10,7 @@ excerpt: This project work aims to transmit High-Definition Multimedia Interface
 
 ### Why should we use FPGA for Image/Video Processing ?
 
-Field Programmable Gate Array (FPGA) are the most appropriate embedded platform for Video/Image Processing. Owing to the parallel architecture, an FPGA is able to perform high-speed video processing such that it could issue warnings timely and provide drivers longer time to respone.
+Field Programmable Gate Array (FPGA) are the most appropriate embedded platform for Video/Image Processing. Owing to the parallel architecture, an FPGA is able to perform high-speed video processing such that it could issue warnings timely and provide drivers longer time to response.
 
 Compared to the CPU implementation, the FPGA video/image processing achieves about tens of times speedup for video-based driver assistance system and other applications.
 
@@ -61,8 +61,8 @@ Following test pattern are observed (shown in Figure ) by selecting following sw
 
 The project work mainly consists of three Parts. In addition, this ISE WebPack project uses both VHDL and Verilog source files.
 
-Reference : Implementing a TMDS Video Interface in the Spartan-6 FPGA — Xilinx 
-https://www.xilinx.com/support/documentation/application_notes/xapp495_S6TMDS_Video_Interface.pdf 
+Reference : [Implementing a TMDS Video Interface in the Spartan-6 FPGA — Xilinx](https://www.xilinx.com/support/documentation/application_notes/xapp495_S6TMDS_Video_Interface.pdf) 
+
 
 1) Top level design file — vtc_demo.v
 
