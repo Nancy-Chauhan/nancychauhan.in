@@ -31,6 +31,10 @@ module.exports = {
           name: `medium`,
           url: `https://medium.com/@_nancychauhan`,
         },
+        {
+          name: `url`,
+          url: `https://t.me/nancychauhanofficial`,
+        },
       ],
     },
     plugins: [
