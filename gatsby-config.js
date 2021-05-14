@@ -4,7 +4,7 @@ module.exports = {
       name: `Nancy Chauhan`,
       siteUrl: `https://nancychauhan.in`,
       description: `Website`,
-  
+
       // important to set the main text that appears in the hero
       hero: {
         heading: `Hi, I'm Nancy. <br/> <br/> Welcome to my blog!`,
@@ -30,10 +30,6 @@ module.exports = {
         {
           name: `medium`,
           url: `https://medium.com/@_nancychauhan`,
-        },
-        {
-          name: `url`,
-          url: `https://t.me/nancychauhanofficial`,
         },
       ],
     },
