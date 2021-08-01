@@ -1,13 +1,11 @@
 ---
 title:  Thank you, July
 author:  Nancy Chauhan
-date:   2020-07-31
+date:   2021-07-31
 hero: ./images/cover.jpeg
 excerpt: This month has been very special to me. I got a chance to reconnect with people and took a break from work to recharge myself. People think overworking themselves will get more jobs done. But on the contrary, the harder you work without taking a break, the less productive and creative you are.
 
 ---
-
-![cover](https://miro.medium.com/max/1400/0*TY9PTz0jufzaeLoR)
 
 This month has been very special to me. I got a chance to reconnect with people and took a break from work to recharge myself. People think overworking themselves will get more jobs done. But on the contrary, the harder you work without taking a break, the less productive and creative you are.
 
@@ -36,13 +34,25 @@ I love giving handmade gifts to my close friends and family, and hence I created
 
 I also did some photography. I believe photography is a great hobby. It allows us to grow as a person, observe things more carefully, and offer so many possibilities for creative expression and technical expertise. One of the primary ways I find photography gratifying is to see the result of my efforts and encourage me to travel and know about new places.
 
-Experience the magic of Taj | Riding in the rain
-- | - 
-![alt](https://miro.medium.com/max/8064/1*7VOu6CSW0NQHWViilnf5Ug.jpeg) | ![alt](https://miro.medium.com/max/2160/1*sAWJ50xIq9hP_MIUiNfrhQ.jpeg)
+### Experience the magic of Taj
+![alt](./images/taj.jpeg) 
 
-Meet the locals | Monsoon blooms
-- | - 
-![alt](https://miro.medium.com/max/8064/1*aOtfWzTJoqZXlO9JtwYzgQ.jpeg) | ![alt](https://miro.medium.com/max/4032/1*8HI15Dolp8pzM-LAR-q-CQ.jpeg)
+### Riding in the rain
+![alt](./images/ride.jpeg)
+
+### Meet the locals 
+![alt](https://miro.medium.com/max/8064/1*aOtfWzTJoqZXlO9JtwYzgQ.jpeg) 
+
+### Monsoon blooms
+
+![alt](https://miro.medium.com/max/4032/1*8HI15Dolp8pzM-LAR-q-CQ.jpeg)
+
+
+### Canvas Paintings 
+
+![alt](https://miro.medium.com/max/7276/1*biSWqDss-FEXyIAlAKmKHQ.jpeg) 
+![alt](https://miro.medium.com/max/8064/1*B66nkLE5tbXsEYap6xl5ZQ.jpeg) 
+![alt](https://miro.medium.com/max/8064/1*T4zLxxLRD-FZWtdZjK0Eig.jpeg)
 
 
 ## Plants
