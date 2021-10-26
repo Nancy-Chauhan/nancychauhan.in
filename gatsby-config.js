@@ -25,7 +25,7 @@ module.exports = {
         },
         {
           name: `instagram`,
-          url: `https://www.instagram.com/_nancychauhan/`,
+          url: `https://www.instagram.com/_nancydiaries/`,
         },
         {
           name: `medium`,
